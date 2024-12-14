@@ -1,6 +1,7 @@
 {
   "name": "todo-ts-app",
   "version": "0.1.0",
+  "homepage": "https://gamework1.github.io/To-do-TS/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",
@@ -42,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.2.0",
     "globals": "^15.6.0"
   }
 }
